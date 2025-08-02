@@ -33,7 +33,7 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.name "potturi vamsi"
+          git config --global user.name "Potturi-Vamsi"
           git config --global user.email "2300031567@kluniversity.in"
 
       - name: Deploy to GitHub Pages
